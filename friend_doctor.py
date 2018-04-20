@@ -2,6 +2,7 @@
 This is the algorithm for my Friend Doctor, your favorite chatbot and medical non-expert.
 Be advised though that this bot does not render any medical advise, but gives probabilistic prognosis on information you provide.
 This bot would be developed to something a bit different and much better, but for the finals - here you go!
+Reference: Www2.hawaii.edu. (n.d.). [online] Available at: http://www2.hawaii.edu/~nreed/ics361/assignments/prolog/birdKB.pro [Accessed 18 Apr. 2018].
 '''
 
 import random as ran
