@@ -3,6 +3,7 @@ This is the algorithm for my Friend Doctor, your favorite chatbot and medical no
 Be advised though that this bot does not render any medical advise, but gives probabilistic prognosis on information you provide.
 This bot would be developed to something a bit different and much better, but for the finals - here you go!
 Reference: Www2.hawaii.edu. (n.d.). [online] Available at: http://www2.hawaii.edu/~nreed/ics361/assignments/prolog/birdKB.pro [Accessed 18 Apr. 2018].
+Smallsurething.com. (n.d.). Implementing the famous ELIZA chatbot in Python – SmallSureThing. [online] Available at: https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/ [Accessed 20 Apr. 2018].
 '''
 
 import random as ran
